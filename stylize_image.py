@@ -42,6 +42,8 @@ def setup_parser():
                         default='resize')
     return parser
 
+def generate_to_art():
+    print('generate_to_art')
 
 if __name__ == '__main__':
 
